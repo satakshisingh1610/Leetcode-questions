@@ -1,4 +1,4 @@
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+Turning problems into patterns, and patterns into problem-solving skills. 🚀
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Divide and Conquer
