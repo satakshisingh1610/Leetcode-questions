@@ -9,4 +9,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0191-number-of-1-bits) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0242-valid-anagram) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
