@@ -13,6 +13,7 @@ Turning problems into patterns, and patterns into problem-solving skills. 🚀
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 ## String
@@ -42,6 +43,7 @@ Turning problems into patterns, and patterns into problem-solving skills. 🚀
 | [0026-remove-duplicates-from-sorted-array](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0088-merge-sorted-array) |
+| [0128-longest-consecutive-sequence](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0704-binary-search](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0704-binary-search) |
 ## Binary Search
@@ -79,4 +81,8 @@ Turning problems into patterns, and patterns into problem-solving skills. 🚀
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0347-top-k-frequent-elements) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
