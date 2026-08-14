@@ -45,6 +45,7 @@ Turning problems into patterns, and patterns into problem-solving skills. 🚀
 | [0035-search-insert-position](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0347-top-k-frequent-elements](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0682-baseball-game](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0704-binary-search) |
@@ -64,6 +65,7 @@ Turning problems into patterns, and patterns into problem-solving skills. 🚀
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0069-sqrtx) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Newton's Method
 |  |
 | ------- |
@@ -91,6 +93,7 @@ Turning problems into patterns, and patterns into problem-solving skills. 🚀
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0682-baseball-game](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
