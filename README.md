@@ -20,6 +20,7 @@ Turning problems into patterns, and patterns into problem-solving skills. 🚀
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0344-reverse-string) |
@@ -44,6 +45,7 @@ Turning problems into patterns, and patterns into problem-solving skills. 🚀
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0035-search-insert-position) |
+| [0079-word-search](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -114,8 +116,17 @@ Turning problems into patterns, and patterns into problem-solving skills. 🚀
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0079-word-search) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0022-generate-parentheses) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
