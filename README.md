@@ -22,6 +22,7 @@ Turning problems into patterns, and patterns into problem-solving skills. 🚀
 | [0125-valid-palindrome](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0344-reverse-string) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1768-merge-strings-alternately](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/1768-merge-strings-alternately) |
 ## Sorting
 |  |
@@ -92,6 +93,7 @@ Turning problems into patterns, and patterns into problem-solving skills. 🚀
 | ------- |
 | [0682-baseball-game](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0739-daily-temperatures) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Simulation
 |  |
 | ------- |
