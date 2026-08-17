@@ -22,6 +22,7 @@ Turning problems into patterns, and patterns into problem-solving skills. 🚀
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0022-generate-parentheses) |
+| [0071-simplify-path](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0131-palindrome-partitioning) |
@@ -99,6 +100,7 @@ Turning problems into patterns, and patterns into problem-solving skills. 🚀
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0682-baseball-game) |
