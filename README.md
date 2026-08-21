@@ -149,5 +149,10 @@ Turning problems into patterns, and patterns into problem-solving skills. 🚀
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0021-merge-two-sorted-lists) |
 | [0394-decode-string](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0394-decode-string) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
