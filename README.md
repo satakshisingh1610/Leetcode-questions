@@ -152,12 +152,14 @@ Turning problems into patterns, and patterns into problem-solving skills. 🚀
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0021-merge-two-sorted-lists) |
+| [0203-remove-linked-list-elements](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0203-remove-linked-list-elements) |
 | [0394-decode-string](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0394-decode-string) |
 ## Linked List
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0141-linked-list-cycle) |
+| [0203-remove-linked-list-elements](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0203-remove-linked-list-elements) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
