@@ -80,6 +80,7 @@ Turning problems into patterns, and patterns into problem-solving skills. 🚀
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Newton's Method
@@ -158,6 +159,7 @@ Turning problems into patterns, and patterns into problem-solving skills. 🚀
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0234-palindrome-linked-list) |
@@ -166,6 +168,7 @@ Turning problems into patterns, and patterns into problem-solving skills. 🚀
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0083-remove-duplicates-from-sorted-list) |
