@@ -64,6 +64,7 @@ Turning problems into patterns, and patterns into problem-solving skills. 🚀
 | [0704-binary-search](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0739-daily-temperatures) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1019-next-greater-node-in-linked-list](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/1019-next-greater-node-in-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Binary Search
 |  |
@@ -117,6 +118,7 @@ Turning problems into patterns, and patterns into problem-solving skills. 🚀
 | [0394-decode-string](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0394-decode-string) |
 | [0682-baseball-game](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0739-daily-temperatures) |
+| [1019-next-greater-node-in-linked-list](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Simulation
@@ -127,6 +129,7 @@ Turning problems into patterns, and patterns into problem-solving skills. 🚀
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0739-daily-temperatures) |
+| [1019-next-greater-node-in-linked-list](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/1019-next-greater-node-in-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Dynamic Programming
 |  |
@@ -175,6 +178,7 @@ Turning problems into patterns, and patterns into problem-solving skills. 🚀
 | [0141-linked-list-cycle](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0234-palindrome-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/1019-next-greater-node-in-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/2487-remove-nodes-from-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Floyd's Cycle Finding Algorithm
