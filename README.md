@@ -157,6 +157,7 @@ Turning problems into patterns, and patterns into problem-solving skills. 🚀
 |  |
 | ------- |
 | [0079-word-search](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0079-word-search) |
+| [0110-balanced-binary-tree](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0110-balanced-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0543-diameter-of-binary-tree) |
 ## Matrix
 |  |
@@ -195,10 +196,12 @@ Turning problems into patterns, and patterns into problem-solving skills. 🚀
 ## Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0110-balanced-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0110-balanced-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0543-diameter-of-binary-tree) |
 ## DP on Trees
 |  |
