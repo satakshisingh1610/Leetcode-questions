@@ -33,6 +33,7 @@ Turning problems into patterns, and patterns into problem-solving skills. 🚀
 | [0394-decode-string](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0394-decode-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1768-merge-strings-alternately](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/1768-merge-strings-alternately) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Sorting
 |  |
 | ------- |
@@ -207,4 +208,8 @@ Turning problems into patterns, and patterns into problem-solving skills. 🚀
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0543-diameter-of-binary-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 <!---LeetCode Topics End-->
