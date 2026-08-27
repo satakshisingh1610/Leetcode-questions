@@ -160,6 +160,7 @@ Turning problems into patterns, and patterns into problem-solving skills. 🚀
 |  |
 | ------- |
 | [0079-word-search](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0079-word-search) |
+| [0101-symmetric-tree](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0110-balanced-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0257-binary-tree-paths) |
@@ -201,6 +202,7 @@ Turning problems into patterns, and patterns into problem-solving skills. 🚀
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0110-balanced-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0257-binary-tree-paths) |
@@ -208,6 +210,7 @@ Turning problems into patterns, and patterns into problem-solving skills. 🚀
 ## Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0110-balanced-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0257-binary-tree-paths) |
@@ -228,4 +231,8 @@ Turning problems into patterns, and patterns into problem-solving skills. 🚀
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
