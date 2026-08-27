@@ -168,6 +168,7 @@ Turning problems into patterns, and patterns into problem-solving skills. 🚀
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0572-subtree-of-another-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -212,6 +213,7 @@ Turning problems into patterns, and patterns into problem-solving skills. 🚀
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -222,6 +224,7 @@ Turning problems into patterns, and patterns into problem-solving skills. 🚀
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0572-subtree-of-another-tree) |
 ## DP on Trees
 |  |
 | ------- |
@@ -252,4 +255,12 @@ Turning problems into patterns, and patterns into problem-solving skills. 🚀
 |  |
 | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
