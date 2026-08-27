@@ -29,6 +29,7 @@ Turning problems into patterns, and patterns into problem-solving skills. 🚀
 | [0125-valid-palindrome](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0394-decode-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -150,6 +151,7 @@ Turning problems into patterns, and patterns into problem-solving skills. 🚀
 | [0022-generate-parentheses](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0131-palindrome-partitioning) |
+| [0257-binary-tree-paths](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0257-binary-tree-paths) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -159,6 +161,7 @@ Turning problems into patterns, and patterns into problem-solving skills. 🚀
 | ------- |
 | [0079-word-search](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0079-word-search) |
 | [0110-balanced-binary-tree](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0110-balanced-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0543-diameter-of-binary-tree) |
 ## Matrix
 |  |
@@ -198,11 +201,13 @@ Turning problems into patterns, and patterns into problem-solving skills. 🚀
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0110-balanced-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0110-balanced-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0543-diameter-of-binary-tree) |
 ## DP on Trees
 |  |
