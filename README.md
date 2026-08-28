@@ -125,6 +125,7 @@ Turning problems into patterns, and patterns into problem-solving skills. 🚀
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0071-simplify-path) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0234-palindrome-linked-list) |
@@ -168,6 +169,7 @@ Turning problems into patterns, and patterns into problem-solving skills. 🚀
 | [0101-symmetric-tree](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0112-path-sum) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0543-diameter-of-binary-tree) |
@@ -196,6 +198,7 @@ Turning problems into patterns, and patterns into problem-solving skills. 🚀
 | [0019-remove-nth-node-from-end-of-list](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0234-palindrome-linked-list) |
@@ -214,6 +217,7 @@ Turning problems into patterns, and patterns into problem-solving skills. 🚀
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0112-path-sum) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0543-diameter-of-binary-tree) |
@@ -226,6 +230,7 @@ Turning problems into patterns, and patterns into problem-solving skills. 🚀
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0112-path-sum) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0543-diameter-of-binary-tree) |
