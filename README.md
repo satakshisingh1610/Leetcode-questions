@@ -37,6 +37,7 @@ Turning problems into patterns, and patterns into problem-solving skills. 🚀
 | [1768-merge-strings-alternately](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/1768-merge-strings-alternately) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Sorting
 |  |
 | ------- |
@@ -54,6 +55,7 @@ Turning problems into patterns, and patterns into problem-solving skills. 🚀
 | [0234-palindrome-linked-list](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0344-reverse-string) |
 | [1768-merge-strings-alternately](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/1768-merge-strings-alternately) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Array
 |  |
 | ------- |
@@ -259,6 +261,7 @@ Turning problems into patterns, and patterns into problem-solving skills. 🚀
 |  |
 | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## String Matching
 |  |
 | ------- |
