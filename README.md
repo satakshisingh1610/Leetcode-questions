@@ -177,6 +177,7 @@ Turning problems into patterns, and patterns into problem-solving skills. 🚀
 | [0572-subtree-of-another-tree](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0617-merge-two-binary-trees) |
 | [0872-leaf-similar-trees](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0872-leaf-similar-trees) |
+| [0938-range-sum-of-bst](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0938-range-sum-of-bst) |
 ## Matrix
 |  |
 | ------- |
@@ -231,6 +232,7 @@ Turning problems into patterns, and patterns into problem-solving skills. 🚀
 | [0700-search-in-a-binary-search-tree](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0872-leaf-similar-trees) |
+| [0938-range-sum-of-bst](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0938-range-sum-of-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -250,6 +252,7 @@ Turning problems into patterns, and patterns into problem-solving skills. 🚀
 | [0700-search-in-a-binary-search-tree](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0872-leaf-similar-trees) |
+| [0938-range-sum-of-bst](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0938-range-sum-of-bst) |
 ## DP on Trees
 |  |
 | ------- |
@@ -297,4 +300,5 @@ Turning problems into patterns, and patterns into problem-solving skills. 🚀
 | [0450-delete-node-in-a-bst](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
