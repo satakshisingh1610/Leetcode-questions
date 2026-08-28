@@ -174,6 +174,7 @@ Turning problems into patterns, and patterns into problem-solving skills. 🚀
 | [0257-binary-tree-paths](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0572-subtree-of-another-tree) |
+| [0872-leaf-similar-trees](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0872-leaf-similar-trees) |
 ## Matrix
 |  |
 | ------- |
@@ -222,6 +223,7 @@ Turning problems into patterns, and patterns into problem-solving skills. 🚀
 | [0257-binary-tree-paths](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0572-subtree-of-another-tree) |
+| [0872-leaf-similar-trees](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0872-leaf-similar-trees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -235,6 +237,7 @@ Turning problems into patterns, and patterns into problem-solving skills. 🚀
 | [0257-binary-tree-paths](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0572-subtree-of-another-tree) |
+| [0872-leaf-similar-trees](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0872-leaf-similar-trees) |
 ## DP on Trees
 |  |
 | ------- |
