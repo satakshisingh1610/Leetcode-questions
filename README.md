@@ -75,6 +75,7 @@ Turning problems into patterns, and patterns into problem-solving skills. 🚀
 | [0875-koko-eating-bananas](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1019-next-greater-node-in-linked-list](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/1019-next-greater-node-in-linked-list) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Binary Search
@@ -283,6 +284,7 @@ Turning problems into patterns, and patterns into problem-solving skills. 🚀
 ## Greedy
 |  |
 | ------- |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Enumeration
 |  |
