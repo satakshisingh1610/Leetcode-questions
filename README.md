@@ -65,6 +65,7 @@ Turning problems into patterns, and patterns into problem-solving skills. 🚀
 | [0035-search-insert-position](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0035-search-insert-position) |
 | [0079-word-search](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -153,6 +154,7 @@ Turning problems into patterns, and patterns into problem-solving skills. 🚀
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0022-generate-parentheses) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0131-palindrome-partitioning) |
 ## Backtracking
 |  |
