@@ -184,6 +184,7 @@ Turning problems into patterns, and patterns into problem-solving skills. 🚀
 | [0617-merge-two-binary-trees](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0617-merge-two-binary-trees) |
 | [0872-leaf-similar-trees](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0938-range-sum-of-bst) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -239,6 +240,7 @@ Turning problems into patterns, and patterns into problem-solving skills. 🚀
 | [0701-insert-into-a-binary-search-tree](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0938-range-sum-of-bst) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -259,6 +261,7 @@ Turning problems into patterns, and patterns into problem-solving skills. 🚀
 | [0701-insert-into-a-binary-search-tree](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0938-range-sum-of-bst) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
@@ -283,6 +286,7 @@ Turning problems into patterns, and patterns into problem-solving skills. 🚀
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0112-path-sum) |
 | [0617-merge-two-binary-trees](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0617-merge-two-binary-trees) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Greedy
 |  |
 | ------- |
