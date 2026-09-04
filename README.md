@@ -10,6 +10,7 @@ Turning problems into patterns, and patterns into problem-solving skills. 🚀
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0191-number-of-1-bits) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Hash Table
 |  |
 | ------- |
@@ -19,6 +20,7 @@ Turning problems into patterns, and patterns into problem-solving skills. 🚀
 | [0242-valid-anagram](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## String
 |  |
@@ -79,6 +81,7 @@ Turning problems into patterns, and patterns into problem-solving skills. 🚀
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Search
 |  |
 | ------- |
@@ -189,6 +192,7 @@ Turning problems into patterns, and patterns into problem-solving skills. 🚀
 |  |
 | ------- |
 | [0079-word-search](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0079-word-search) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Design
 |  |
 | ------- |
@@ -287,6 +291,7 @@ Turning problems into patterns, and patterns into problem-solving skills. 🚀
 | [0112-path-sum](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0112-path-sum) |
 | [0617-merge-two-binary-trees](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0617-merge-two-binary-trees) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Greedy
 |  |
 | ------- |
