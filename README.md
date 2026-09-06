@@ -102,6 +102,7 @@ Turning problems into patterns, and patterns into problem-solving skills. 🚀
 | ------- |
 | [0002-add-two-numbers](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Newton's Method
 |  |
@@ -157,6 +158,7 @@ Turning problems into patterns, and patterns into problem-solving skills. 🚀
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0131-palindrome-partitioning) |
 ## Backtracking
@@ -317,4 +319,8 @@ Turning problems into patterns, and patterns into problem-solving skills. 🚀
 | [0700-search-in-a-binary-search-tree](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0938-range-sum-of-bst) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
