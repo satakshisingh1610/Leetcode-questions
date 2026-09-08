@@ -177,6 +177,7 @@ Turning problems into patterns, and patterns into problem-solving skills. 🚀
 |  |
 | ------- |
 | [0079-word-search](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0079-word-search) |
+| [0098-validate-binary-search-tree](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0112-path-sum) |
@@ -229,6 +230,7 @@ Turning problems into patterns, and patterns into problem-solving skills. 🚀
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -250,6 +252,7 @@ Turning problems into patterns, and patterns into problem-solving skills. 🚀
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -315,6 +318,7 @@ Turning problems into patterns, and patterns into problem-solving skills. 🚀
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0098-validate-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0701-insert-into-a-binary-search-tree) |
