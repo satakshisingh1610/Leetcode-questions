@@ -101,6 +101,7 @@ Turning problems into patterns, and patterns into problem-solving skills. 🚀
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0150-evaluate-reverse-polish-notation) |
