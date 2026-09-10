@@ -26,6 +26,7 @@ Turning problems into patterns, and patterns into problem-solving skills. 🚀
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0022-generate-parentheses) |
 | [0071-simplify-path](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0079-word-search) |
@@ -135,6 +136,7 @@ Turning problems into patterns, and patterns into problem-solving skills. 🚀
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0071-simplify-path) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -175,6 +177,7 @@ Turning problems into patterns, and patterns into problem-solving skills. 🚀
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0022-generate-parentheses) |
 ## Depth-First Search
 |  |
