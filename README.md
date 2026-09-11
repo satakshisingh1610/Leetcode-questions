@@ -76,6 +76,7 @@ Turning problems into patterns, and patterns into problem-solving skills. 🚀
 | [0682-baseball-game](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1019-next-greater-node-in-linked-list](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/1019-next-greater-node-in-linked-list) |
@@ -166,6 +167,7 @@ Turning problems into patterns, and patterns into problem-solving skills. 🚀
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0131-palindrome-partitioning) |
 | [0509-fibonacci-number](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0746-min-cost-climbing-stairs) |
 ## Backtracking
 |  |
 | ------- |
