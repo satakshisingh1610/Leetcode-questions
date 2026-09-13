@@ -73,6 +73,7 @@ Turning problems into patterns, and patterns into problem-solving skills. 🚀
 | [0150-evaluate-reverse-polish-notation](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0347-top-k-frequent-elements](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0347-top-k-frequent-elements) |
+| [0413-arithmetic-slices](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0413-arithmetic-slices) |
 | [0682-baseball-game](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0739-daily-temperatures) |
@@ -167,6 +168,7 @@ Turning problems into patterns, and patterns into problem-solving skills. 🚀
 | [0070-climbing-stairs](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0131-palindrome-partitioning) |
+| [0413-arithmetic-slices](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0413-arithmetic-slices) |
 | [0509-fibonacci-number](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/1137-n-th-tribonacci-number) |
@@ -289,6 +291,7 @@ Turning problems into patterns, and patterns into problem-solving skills. 🚀
 ## Sliding Window
 |  |
 | ------- |
+| [0413-arithmetic-slices](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0413-arithmetic-slices) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Binary Lifting
 |  |
