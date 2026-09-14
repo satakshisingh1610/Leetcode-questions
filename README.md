@@ -78,6 +78,7 @@ Turning problems into patterns, and patterns into problem-solving skills. 🚀
 | [0413-arithmetic-slices](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0413-arithmetic-slices) |
 | [0682-baseball-game](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0704-binary-search) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0739-daily-temperatures](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0875-koko-eating-bananas) |
@@ -174,6 +175,7 @@ Turning problems into patterns, and patterns into problem-solving skills. 🚀
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0413-arithmetic-slices](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0413-arithmetic-slices) |
 | [0509-fibonacci-number](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0509-fibonacci-number) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/1137-n-th-tribonacci-number) |
 ## Backtracking
@@ -319,6 +321,7 @@ Turning problems into patterns, and patterns into problem-solving skills. 🚀
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Enumeration
