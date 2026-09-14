@@ -76,6 +76,7 @@ Turning problems into patterns, and patterns into problem-solving skills. 🚀
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0347-top-k-frequent-elements](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0413-arithmetic-slices](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0413-arithmetic-slices) |
+| [0518-coin-change-ii](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0518-coin-change-ii) |
 | [0682-baseball-game](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0704-binary-search) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -175,6 +176,7 @@ Turning problems into patterns, and patterns into problem-solving skills. 🚀
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0413-arithmetic-slices](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0413-arithmetic-slices) |
 | [0509-fibonacci-number](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0509-fibonacci-number) |
+| [0518-coin-change-ii](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0518-coin-change-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/1137-n-th-tribonacci-number) |
@@ -351,4 +353,12 @@ Turning problems into patterns, and patterns into problem-solving skills. 🚀
 | [0070-climbing-stairs](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/1137-n-th-tribonacci-number) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0518-coin-change-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
