@@ -74,6 +74,7 @@ Turning problems into patterns, and patterns into problem-solving skills. 🚀
 | [0150-evaluate-reverse-polish-notation](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0322-coin-change](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0413-arithmetic-slices](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0413-arithmetic-slices) |
 | [0518-coin-change-ii](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0518-coin-change-ii) |
@@ -174,6 +175,7 @@ Turning problems into patterns, and patterns into problem-solving skills. 🚀
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0131-palindrome-partitioning) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0322-coin-change](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0322-coin-change) |
 | [0413-arithmetic-slices](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0413-arithmetic-slices) |
 | [0509-fibonacci-number](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0518-coin-change-ii) |
@@ -316,6 +318,7 @@ Turning problems into patterns, and patterns into problem-solving skills. 🚀
 | [0102-binary-tree-level-order-traversal](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0112-path-sum) |
+| [0322-coin-change](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0322-coin-change) |
 | [0617-merge-two-binary-trees](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0617-merge-two-binary-trees) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -356,9 +359,11 @@ Turning problems into patterns, and patterns into problem-solving skills. 🚀
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
