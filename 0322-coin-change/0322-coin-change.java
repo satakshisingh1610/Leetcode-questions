@@ -17,6 +17,10 @@ class Solution {
             }
         }
 
-        return dp[amount] == amount + 1 ? -1 : dp[amount];
+       if(dp[amount] == amount + 1) {
+    return -1;
+} else {
+    return dp[amount];
+}
     }
 }
