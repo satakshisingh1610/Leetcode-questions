@@ -5,6 +5,7 @@ class Solution {
         int[] dp = new int[target + 1];
 
         Arrays.fill(dp, -1);
+        dp[0]=0;
 
         return dfs(target, nums, dp);
     }
