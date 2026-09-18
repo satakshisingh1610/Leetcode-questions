@@ -87,6 +87,7 @@ Turning problems into patterns, and patterns into problem-solving skills. 🚀
 | [0875-koko-eating-bananas](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1019-next-greater-node-in-linked-list](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/1019-next-greater-node-in-linked-list) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -184,6 +185,7 @@ Turning problems into patterns, and patterns into problem-solving skills. 🚀
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/1137-n-th-tribonacci-number) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Backtracking
 |  |
 | ------- |
@@ -219,6 +221,7 @@ Turning problems into patterns, and patterns into problem-solving skills. 🚀
 |  |
 | ------- |
 | [0079-word-search](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0079-word-search) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Design
 |  |
