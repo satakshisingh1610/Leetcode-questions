@@ -11,17 +11,14 @@ class Solution {
 
     public int dfs(String s, int i, int[] dp) {
 
-        // Successfully decoded the whole string
         if (i == s.length()) {
             return 1;
         }
 
-        // 0 cannot be decoded alone
         if (s.charAt(i) == '0') {
             return 0;
         }
 
-        // Already calculated
         if (dp[i] != -1) {
             return dp[i];
         }
@@ -29,15 +26,14 @@ class Solution {
         // Take one digit
         int one = dfs(s, i + 1, dp);
 
+        // Take two digits
         int two = 0;
 
-        // Make sure next character exists
         if (i + 1 < s.length()) {
 
             int num = (s.charAt(i) - '0') * 10
                     + (s.charAt(i + 1) - '0');
 
-            // Two digits can form an alphabet
             if (num >= 10 && num <= 26) {
                 two = dfs(s, i + 2, dp);
             }
