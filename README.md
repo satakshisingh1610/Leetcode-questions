@@ -189,6 +189,7 @@ Turning problems into patterns, and patterns into problem-solving skills. 🚀
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0740-delete-and-earn](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0746-min-cost-climbing-stairs) |
+| [0790-domino-and-tromino-tiling](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0790-domino-and-tromino-tiling) |
 | [1137-n-th-tribonacci-number](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/1137-n-th-tribonacci-number) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Backtracking
