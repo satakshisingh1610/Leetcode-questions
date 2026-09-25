@@ -46,6 +46,7 @@ Turning problems into patterns, and patterns into problem-solving skills. 🚀
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0047-permutations-ii) |
 | [0088-merge-sorted-array](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0347-top-k-frequent-elements) |
@@ -68,6 +69,7 @@ Turning problems into patterns, and patterns into problem-solving skills. 🚀
 | [0026-remove-duplicates-from-sorted-array](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0035-search-insert-position) |
+| [0047-permutations-ii](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0047-permutations-ii) |
 | [0079-word-search](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -197,6 +199,7 @@ Turning problems into patterns, and patterns into problem-solving skills. 🚀
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0022-generate-parentheses) |
+| [0047-permutations-ii](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0047-permutations-ii) |
 | [0079-word-search](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0257-binary-tree-paths) |
