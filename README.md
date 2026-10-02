@@ -123,6 +123,7 @@ Turning problems into patterns, and patterns into problem-solving skills. 🚀
 | [0069-sqrtx](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0343-integer-break](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0343-integer-break) |
 | [0509-fibonacci-number](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/1137-n-th-tribonacci-number) |
 ## Newton's Method
@@ -190,6 +191,7 @@ Turning problems into patterns, and patterns into problem-solving skills. 🚀
 | [0213-house-robber-ii](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0213-house-robber-ii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0322-coin-change) |
+| [0343-integer-break](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0343-integer-break) |
 | [0377-combination-sum-iv](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0377-combination-sum-iv) |
 | [0413-arithmetic-slices](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0413-arithmetic-slices) |
 | [0509-fibonacci-number](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0509-fibonacci-number) |
