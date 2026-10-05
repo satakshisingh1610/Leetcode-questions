@@ -14,6 +14,7 @@ Turning problems into patterns, and patterns into problem-solving skills. 🚀
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0128-longest-consecutive-sequence](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0141-linked-list-cycle) |
@@ -67,6 +68,7 @@ Turning problems into patterns, and patterns into problem-solving skills. 🚀
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0035-search-insert-position) |
