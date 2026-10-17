@@ -4,6 +4,7 @@ Turning problems into patterns, and patterns into problem-solving skills. 🚀
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0023-merge-k-sorted-lists) |
 | [0191-number-of-1-bits](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 ## Bit Manipulation
@@ -135,6 +136,7 @@ Turning problems into patterns, and patterns into problem-solving skills. 🚀
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
@@ -263,6 +265,7 @@ Turning problems into patterns, and patterns into problem-solving skills. 🚀
 | [0002-add-two-numbers](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0023-merge-k-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0141-linked-list-cycle) |
@@ -396,4 +399,12 @@ Turning problems into patterns, and patterns into problem-solving skills. 🚀
 | ------- |
 | [0322-coin-change](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0518-coin-change-ii) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/satakshisingh1610/Leetcode-questions/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
